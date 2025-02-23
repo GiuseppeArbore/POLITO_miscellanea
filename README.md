@@ -9,5 +9,5 @@ Labs and notes of Polito's courses
 - rust_notes: notes of Polito's course "PDS-Rust programming language"
 - mobileApp_notes: notes of Polito's course "Mobile Application Development"
 - webApp_notes: notes of Polito's course "Web Application"
-- softenf_notes: notes of Polito's course "Software Engineering"
+- softeng_notes: notes of Polito's course "Software Engineering"
 
