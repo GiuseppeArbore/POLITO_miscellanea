@@ -10,4 +10,6 @@ Labs and notes of Polito's courses
 - mobileApp_notes: notes of Polito's course "Mobile Application Development"
 - webApp_notes: notes of Polito's course "Web Application"
 - softeng_notes: notes of Polito's course "Software Engineering"
+- hci_project: project of Polito's course "Human Computer Interaction"
+- webApp2_notes: notes of Polito's course "Web Application 2"
 
